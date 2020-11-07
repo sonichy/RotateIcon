@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Safari.png</file>
+        <file>Chrome.png</file>
+        <file>Firefox.png</file>
+    </qresource>
+</RCC>
